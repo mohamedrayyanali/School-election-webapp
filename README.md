@@ -4,7 +4,9 @@ A modern, responsive, and user-friendly web application designed to conduct scho
 
 # WEBAPP PREVIEW
 https://6a3149e5b27ee70c71871567--heroic-yeot-9dea75.netlify.app/
-## ✨ Features
+## photos
+<img width="1920" height="1097" alt="schoolelection" src="https://github.com/user-attachments/assets/885cf749-0c08-42c3-bc3d-f121b9025889" />
+
 
 ### Admin Setup
 
@@ -96,4 +98,5 @@ This project is intended for educational and school administration purposes.
 ## 👨‍💻 Developed By
 
 Developed to simplify and modernize school election management through a secure and easy-to-use digital platform.
+
 
